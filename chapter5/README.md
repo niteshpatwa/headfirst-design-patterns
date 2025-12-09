@@ -13,7 +13,7 @@
 ### Multithreaded Singleton Design Pattern Example
 ![alt text](../resources/5.3.png)
 
-## Project 3: MultiThreadOptimized
+## Project 4: MultiThreadOptimized
 ### Approach1: Eager initialization of the singleton instance
 ### Approach2: Lazy initialization with double-checked locking
 ### Approach3: Enum based singleton (best practice for singletons in Java)
