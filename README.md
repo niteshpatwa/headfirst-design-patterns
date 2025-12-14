@@ -7,3 +7,4 @@
 - Chapter4: Factory/Abstract Factory Design Pattern
 - Chapter5: Singleton Design Pattern
 - Chapter6: Command Design Pattern
+- Chapter7: Adaptera and Facacde Design Patterns

@@ -1,0 +1,26 @@
+package Ducks.Adapters;
+
+import java.util.Random;
+
+import Ducks.Ducks.Duck;
+import Ducks.Turkeys.Turkey;
+
+public class DuckAdapter implements Turkey {
+    private Duck duck;
+    private Random rand;
+
+    public DuckAdapter(Duck duck) {
+        this.duck = duck;
+        this.rand = new Random();
+    }
+
+    public void gobble() {
+        duck.quack();
+    }
+
+    public void fly() {
+        if (rand.nextInt(5) == 0) {
+            duck.fly();
+        }
+    }
+}
