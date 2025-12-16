@@ -8,4 +8,5 @@
 - Chapter5: Singleton Design Pattern
 - Chapter6: Command Design Pattern
 - Chapter7: Adapter and Facade Design Patterns
-- Chapter8: Template Method Design Patterns
+- Chapter8: Template Method Design Pattern
+- Chapter9: Iterator and Composite Design Patterns
